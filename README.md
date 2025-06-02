@@ -1,5 +1,6 @@
 # CS Ranking Tutorial
 
+This tutorial is to help you better understand how CS ranking works and how to correctly record professor/faculty information.
 
 ## 1. How to Record Valid Faculty Information for Your Institution's CS Ranking 
 **Step-0**: Read the [official website](https://csrankings.org/#/index?all&us) first.
