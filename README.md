@@ -99,7 +99,7 @@ Then, we can calculate the **score of the institution** by summing up all the ar
 scores. Formally, the score for each institution in a specific area is named as
 **Average Count**, which is the geometric mean of the adjusted counts per area
 for this institution (for $A$ areas selected, this is the $A$-th root of the product of
-all adjusted counts $(+1)$ ).
+all adjusted counts $(+1)$).
 $$(\text{AverageCount}) =  \sqrt[A]{\prod_{a=1}^{A}((\text{AreaAverageCounts})_a + 1)}$$
 _This computation implicitly normalizes publication rates and sizes of areas. An
 Institution gets the sum-total of all the points its researchers receive. Currently,
@@ -108,7 +108,7 @@ rankings._
 
 ## 4. Frequently Asked Questions
 
-- The professor or faculty homepage information is not aligned.
+- The professor or faculty homepage information is not aligned. ![](/Fig/Q1.png "The professor or faculty homepage information is not aligned.")
 - Need to use the full Github homepage link for professor or faculty.
 - The relationship between the professor/faculty’s homepage and the institution/school is not clearly explained.
 - If the professor/faculty information is already in csrankings, to modify the existing professor/faculty information, you need to delete the original information to update it, and it cannot be repeated.
