@@ -7,7 +7,7 @@ This tutorial is to help you better understand how CS ranking works and how to c
 
 **Step-1**: Fork the official [CS rankings repository](https://github.com/emeryberger/CSrankings) and clone your forked copy locally.
 
-**Step-2**: Read [CONTRIBUTING.md](https://github.com/emeryberger/CSrankings/blob/gh-pages/CONTRIBUTING.md) carefully. You only need to modify csrankings-[a-z].csv and counrtry-info.csv to contain the professor/faculty information and institution information of the corresponding first letter.
+**Step-2**: Read [CONTRIBUTING.md](https://github.com/emeryberger/CSrankings/blob/gh-pages/CONTRIBUTING.md) carefully. You only need to modify csrankings-[a-z].csv and country-info.csv to contain the professor/faculty information and institution information of the corresponding first letter.
 
 **Step-3**: Notes on modification
 - Don't use EXCEL to modify the csv files, use editor like Notepad.
