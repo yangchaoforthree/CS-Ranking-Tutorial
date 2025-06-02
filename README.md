@@ -97,13 +97,17 @@ where $K$ is the number of papers for a faculty $m$ published in the listed conf
 ### 3.3 Institution Score
 For each area $a$, we first calculate the score for the institution by summing up
 all the adjusted counts for each faculty, which is given by:
+
 $$(\text{AreaAverageCounts})_a = \sum_{m=1}^{M}(\text{AdjustedCounts}_m)_a$$
+
 Then, we can calculate the **score of the institution** by summing up all the area
 scores. Formally, the score for each institution in a specific area is named as
 **Average Count**, which is the geometric mean of the adjusted counts per area
 for this institution (for $A$ areas selected, this is the $A$-th root of the product of
 all adjusted counts $(+1)$).
-$$(\text{AverageCount}) =  \sqrt[A]{\prod_{a=1}^{A}((\text{AreaAverageCounts})_a + 1)}$$
+
+$$(\text{AverageCount}) = \sqrt[A]{\prod_{a=1}^{A}((\text{AreaAverageCounts})_a + 1)}$$
+
 _This computation implicitly normalizes publication rates and sizes of areas. An
 Institution gets the sum-total of all the points its researchers receive. Currently,
 graduate students at the same institution don't get included in the institutional
