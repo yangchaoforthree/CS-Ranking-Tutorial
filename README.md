@@ -89,7 +89,9 @@ conference.
 
 Formally, the score is named as **Adjusted Counts**. For each faculty $m$ in
 specific area $a$:
+
 $$(\text{AdjustedCounts}_m)_a = \sum_{i=1}^{K}\frac{1}{N_i}$$
+
 where $K$ is the number of papers for a faculty $m$ published in the listed conferences (as shown in the table above) in specific area $a$, and $N_i$ is the number of co-authors for the $i$-th paper.
 
 ### 3.3 Institution Score
