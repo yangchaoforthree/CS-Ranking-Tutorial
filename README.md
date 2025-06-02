@@ -18,7 +18,7 @@ This tutorial is to help you better understand how CS ranking works and how to c
 
 **Step-4**: After all information is modified, push the changes to gitub. The commit information needs to clearly state the purpose of the modification.
 
-**Step-5**: After confirming the modification, you can submit PR on the csrankings website. All PR confirmation information must be confirmed and checked.
+**Step-5**: After confirming the modification, you can submit PR (pull request) on the csrankings website [here](https://github.com/emeryberger/CSrankings). All PR confirmation information must be confirmed and checked.
 
 **Step-6**: After submitting a PR, you can contact the professor/faculty to send an email to csrankings, stating the PR ID and other information to indicate that it has been submitted; after receiving the PR, the official will review and give a result, which requires timely attention and reply.
 
