@@ -108,7 +108,7 @@ rankings._
 
 ## 4. Frequently Asked Questions
 
-- The professor or faculty homepage information is not aligned. ![](/Fig/Q1.png "The professor or faculty homepage information is not aligned.")
-- Need to use the full Github homepage link for professor or faculty.
-- The relationship between the professor/faculty’s homepage and the institution/school is not clearly explained.
-- If the professor/faculty information is already in csrankings, to modify the existing professor/faculty information, you need to delete the original information to update it, and it cannot be repeated.
+- The professor or faculty homepage information is not aligned. ![](/Fig/Q1.png "Frequently asked question-1.")
+- Need to use the full Github homepage link for professor or faculty. ![](/Fig/Q2.png "Frequently asked question-2.")
+- The relationship between the professor/faculty’s homepage and the institution/school is not clearly explained. ![](/Fig/Q2.png "Frequently asked question-3.")
+- If the professor/faculty information is already in csrankings, to modify the existing professor/faculty information, you need to delete the original information to update it, and it cannot be repeated. ![](/Fig/Q2.png "Frequently asked question-4.")
